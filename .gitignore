@@ -1,0 +1,15 @@
+# Compiled output
+out/
+*.class
+
+# IDE and OS files
+.idea/
+.DS_Store
+
+# Player save data (created automatically when the game runs)
+*_save.txt
+data/stats_lvl*.txt
+data/progression.txt
+
+# Third-party libraries (CityEngine is not redistributed here)
+lib/
